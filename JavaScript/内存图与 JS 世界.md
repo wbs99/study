@@ -28,4 +28,5 @@ let p2 = p
 
 - p.name 当然就是 'xxx' 了
 - 因为 p2 和 p 都对应 #108 这个地址
-![image-20210910225455818](C:\Users\11349\AppData\Roaming\Typora\typora-user-images\image-20210910225455818.png)
+
+![img](https://cdn.nlark.com/yuque/0/2021/png/21638555/1631286472830-862eb9dd-37fe-4930-8956-cae4c497fe70.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
