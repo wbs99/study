@@ -35,4 +35,4 @@ let p2 = p
 - `p.name` 当然就是 `'xxx'` 了
 - 因为 p2 和 p 都对应 #108 这个地址
 
-![img](https://cdn.nlark.com/yuque/0/2021/png/21638555/1631286472830-862eb9dd-37fe-4930-8956-cae4c497fe70.png)
+![img](https://raw.githubusercontent.com/wbs99/study/main/images/image.png)
